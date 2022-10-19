@@ -5,7 +5,7 @@
  * @num1: The first integer to be added.
  * @num2: The second integer to be added.
  *
- * Description: is written by Honeydropjahbless
+ * Description: is written by anenepeter
  * Return: The result of the addition.
  */
 

@@ -4,7 +4,7 @@
  * main - Prints the sum of even-valued Fibonacci sequence
  * terms not exceeding 4000000.
  *
- * Description: is written by Honeydropjahbless
+ * Description: is written by anenepeter
  * Return: Always 0.
  */
 

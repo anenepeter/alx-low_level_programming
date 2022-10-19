@@ -4,7 +4,7 @@
  * main - Prints the first 98 Fibonacci numbers, starting with
  * 1 and 2, separated by a comma followed by a space.
  *
- * Description: is written by Honeydropjahbless
+ * Description: is written by anenepeter
  * Return: Always 0.
  */
 

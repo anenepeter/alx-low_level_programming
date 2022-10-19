@@ -5,7 +5,7 @@
  * starting with 0.
  * @n: The value of the times table to be printed.
  *
- * Description: is written by Honeydropjahbless
+ * Description: is written by anenepeter
  */
 
 void print_times_table(int n)

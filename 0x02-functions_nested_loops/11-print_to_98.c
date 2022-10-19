@@ -5,7 +5,7 @@
  * in order separated by a comma followed by a space.
  * @n: The number to begin counting at.
  *
- * Description: is written by Honeydropjahbless
+ * Description: is written by anenepeter
  */
 
 void print_to_98(int n)

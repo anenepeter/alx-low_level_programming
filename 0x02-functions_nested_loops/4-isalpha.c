@@ -4,7 +4,7 @@
  * _isalpha - Checks if a character is alphabetic.
  * @c: The character to be checked.
  *
- * Description: is written by Honeydropjahbless
+ * Description: is written by anenepeter
  * Return: 1 if character is letter, lowercase or uppercase, 0 otherwise.
  */
 

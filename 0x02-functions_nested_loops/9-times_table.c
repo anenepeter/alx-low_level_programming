@@ -3,7 +3,7 @@
 /**
  * times_table - Prints the 9 times table, starting with 0.
  *
- * Description: is written by Honeydropjahbless
+ * Description: is written by anenepeter
  */
 
 void times_table(void)

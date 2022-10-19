@@ -4,7 +4,7 @@
  * print_last_digit - Prints the last digit of a number.
  * @n: The number in question.
  *
- * Description: is written by Honeydropjahbless
+ * Description: is written by anenepeter
  * Return: Value of the last digit.
  */
 
