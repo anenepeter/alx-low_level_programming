@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * add - Multiples two integers.
+ * mul - Multiples two integers.
  * @num1: The first integer to be added.
  * @num2: The second integer to be added.
  *

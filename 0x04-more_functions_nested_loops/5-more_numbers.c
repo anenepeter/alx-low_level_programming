@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_numbers - prints numbers fom 0 to 14 X10, followed by a new line
+ * more_numbers - prints numbers fom 0 to 14 X10, followed by a new line
  * Description: is written by anenepeter
  */
 

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_numbers - prints numbers fom 0 to 9, followed a new line
+ * print_most_numbers - prints numbers fom 0 to 9, followed a new line
  * Description: is written by anenepeter
  */
 
