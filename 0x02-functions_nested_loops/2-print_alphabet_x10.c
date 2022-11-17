@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet_x10 - Prints 10 times the alphabet, in lowercase.
- * Description: is written by honeydropjahbless
+ * Description: is written by anenepeters
  */
 
 void print_alphabet_x10(void)
